@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B60F33DF3F4DFBD9129297AC9D644685D599927B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B60F33DF3F4DFBD9129297AC9D644685D599927B" : 9223372036854775807,
+    "0CAA22011366DD7A949552150DECB359CE4A253B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "139EE7D8-338D-4B08-8AC1-6F53EDB87EAE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B60F33DF3F4DFBD9129297AC9D644685D599927B" : "MyTest\/",
+    "0CAA22011366DD7A949552150DECB359CE4A253B" : "MyTest\/JHToastDemo\/JHToast\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JHToast",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JHToastDemo\/JHToast.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/love-my-life\/JHToast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CAA22011366DD7A949552150DECB359CE4A253B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/love-my-life\/MyTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B60F33DF3F4DFBD9129297AC9D644685D599927B"
+    }
+  ]
+}
